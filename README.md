@@ -1,4 +1,4 @@
-# Most Repeated Word Finder
+# Prime Numbers Under 100
 
 A program used for educational purposes to take an integer input from the user under 100 and output all prime numbers between the user input and 100. 
 
